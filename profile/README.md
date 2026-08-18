@@ -1,6 +1,6 @@
 # Vort Automation & Innovation
 
-Vort is a fairly new company (founded 2020) actively in communication with clients across South African insurance organizations. We're building purpose-built automation and compliance solutions designed specifically for the insurance industry.
+Vort is a fairly new company (founded 2025) actively in communication with clients across South African insurance organizations. We're building purpose-built automation and compliance solutions designed specifically for the insurance industry.
 
 **Company Status:** Pre-seed stage, actively in client engagement and product development
 
