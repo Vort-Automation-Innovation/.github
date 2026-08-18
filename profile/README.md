@@ -37,39 +37,37 @@
 
 ---
 
-<!-- DIVIDER -->
-<p align="center">
-  <svg width="500" height="15" viewBox="0 0 500 15" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="7.5" x2="190" y2="7.5" stroke="#DAA520" stroke-width="1" opacity="0.3"/>
-    <circle cx="250" cy="7.5" r="4" fill="#DAA520"/>
-    <line x1="310" y1="7.5" x2="500" y2="7.5" stroke="#DAA520" stroke-width="1" opacity="0.3"/>
-  </svg>
-</p>
-
 ## About The Organization
 
 **Vort Automation & Innovation** is an enterprise automation platform engineered for South African insurance companies. We deliver comprehensive solutions for claims processing, regulatory compliance, and reserve management.
 
-### Core Capabilities
+---
 
-<table>
+## Our Solution Areas
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%"><b>Primary Focus</b><br>
-      Claims Processing Automation<br>
-      Regulatory Compliance Management<br>
-      Reserve Calculation & Tracking<br>
-      Operational Efficiency
+    <td align="center" width="50%">
+      <h3>Workflow Automation</h3>
+      <img src="https://raw.githubusercontent.com/Vort-Automation-Innovation/.github/main/images/automation.png" width="220" alt="Automation & Triage Workflows"/>
+      <br><sub>Claims Triage & Processing Automation</sub>
     </td>
-    <td width="50%">
-      <svg width="280" height="120" viewBox="0 0 280 120" xmlns="http://www.w3.org/2000/svg">
-        <rect width="280" height="120" rx="12" fill="#141A28" stroke="#DAA520" stroke-width="1" stroke-opacity="0.5"/>
-        <text x="35" y="40" font-family="Arial" font-size="28" font-weight="bold" fill="#DAA520">50+</text>
-        <text x="35" y="60" font-family="Arial" font-size="11" fill="#A8B2C0">Insurance Partners</text>
-        <line x1="20" y1="75" x2="260" y2="75" stroke="#DAA520" stroke-width="0.5" opacity="0.3"/>
-        <text x="180" y="40" font-family="Arial" font-size="28" font-weight="bold" fill="#DAA520">$5M+</text>
-        <text x="180" y="60" font-family="Arial" font-size="11" fill="#A8B2C0">Annual Revenue</text>
-        <text x="140" y="105" font-family="Arial" font-size="10" fill="#DAA520" text-anchor="middle">SERIES A FUNDED</text>
-      </svg>
+    <td align="center" width="50%">
+      <h3>Regulatory Compliance</h3>
+      <img src="https://raw.githubusercontent.com/Vort-Automation-Innovation/.github/main/images/compliance.png" width="220" alt="Compliance & Governance"/>
+      <br><sub>Compliance Management & Governance</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Data Security</h3>
+      <img src="https://raw.githubusercontent.com/Vort-Automation-Innovation/.github/main/images/security.png" width="220" alt="Security & Access Control"/>
+      <br><sub>Access Control & Data Protection</sub>
+    </td>
+    <td align="center">
+      <h3>Advanced Analytics</h3>
+      <img src="https://raw.githubusercontent.com/Vort-Automation-Innovation/.github/main/images/analytics.png" width="220" alt="Data Analytics & Insights"/>
+      <br><sub>Data Analysis & Business Insights</sub>
     </td>
   </tr>
 </table>
@@ -78,65 +76,22 @@
 
 ## Documentation Repositories
 
-<table align="center" width="100%">
-  <tr>
-    <th colspan="3">Enterprise Documentation</th>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/Vort-Automation-Innovation/legal">LEGAL</a></b><br>
-      <sub>Service Agreements<br>Compliance Materials</sub>
-    </td>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/Vort-Automation-Innovation/onboarding">ONBOARDING</a></b><br>
-      <sub>Employee Handbook<br>IT Setup Guides</sub>
-    </td>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/Vort-Automation-Innovation/compliance">COMPLIANCE</a></b><br>
-      <sub>Regulatory Framework<br>Certifications</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b><a href="https://github.com/Vort-Automation-Innovation/hr">HUMAN RESOURCES</a></b><br>
-      <sub>Compensation Structure<br>Benefit Programs</sub>
-    </td>
-    <td align="center">
-      <b><a href="https://github.com/Vort-Automation-Innovation/company-docs">COMPANY DOCS</a></b><br>
-      <sub>Organizational Structure<br>Company Overview</sub>
-    </td>
-    <td align="center">
-      <b><a href="https://github.com/Vort-Automation-Innovation/security">SECURITY</a></b><br>
-      <sub>Security Standards<br>Incident Response</sub>
-    </td>
-  </tr>
-</table>
+| Repository | Purpose |
+|:---|:---|
+| **LEGAL** | Service Agreements & Compliance Materials |
+| **ONBOARDING** | Employee Handbook & IT Setup Guides |
+| **COMPLIANCE** | Regulatory Framework & Certifications |
+| **HUMAN RESOURCES** | Compensation Structure & Benefits |
+| **COMPANY DOCS** | Organizational Structure & Overview |
+| **SECURITY** | Security Standards & Incident Response |
 
 ---
 
 ## Getting Started
 
-<details open>
-<summary><b>EMPLOYEE ONBOARDING</b></summary>
+**For Employees**: Review handbook, complete IT setup, review policies, coordinate with department
 
-1. Access the [Employee Handbook](https://github.com/Vort-Automation-Innovation/onboarding)
-2. Complete [IT Setup Procedures](https://github.com/Vort-Automation-Innovation/onboarding)
-3. Review [HR Policies](https://github.com/Vort-Automation-Innovation/hr)
-4. Review [Security Standards](https://github.com/Vort-Automation-Innovation/security)
-5. Coordinate with your department lead
-
-</details>
-
-<details>
-<summary><b>CUSTOMER & PARTNER ENGAGEMENT</b></summary>
-
-1. Review [Terms of Service](https://github.com/Vort-Automation-Innovation/legal)
-2. Understand [Privacy Policy](https://github.com/Vort-Automation-Innovation/legal)
-3. Assess [Compliance Framework](https://github.com/Vort-Automation-Innovation/compliance)
-4. Review [Security Policies](https://github.com/Vort-Automation-Innovation/security)
-5. Contact [Sales Team](mailto:sales@vort.org.za)
-
-</details>
+**For Customers**: Review terms, understand privacy policy, assess compliance framework, contact sales
 
 ---
 
@@ -155,58 +110,28 @@
 
 ## Compliance & Standards
 
-<table align="center">
-  <tr>
-    <th>Certification</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>SOC 2 Type II</td>
-    <td><b>Certified</b></td>
-  </tr>
-  <tr>
-    <td>GDPR Compliance</td>
-    <td><b>Verified</b></td>
-  </tr>
-  <tr>
-    <td>CCPA Compliance</td>
-    <td><b>Verified</b></td>
-  </tr>
-  <tr>
-    <td>South African Regulations</td>
-    <td><b>Compliant</b></td>
-  </tr>
-</table>
-
-> All repositories maintain enterprise security protocols including mandatory code reviews, protected branches, commit signatures, two-factor authentication, and complete audit trails.
+| Certification | Status |
+|:---|:---|
+| **SOC 2 Type II** | Certified |
+| **GDPR** | Verified |
+| **CCPA** | Verified |
+| **South African Regulations** | Compliant |
 
 ---
 
 ## Contact Directory
 
-| Department | Contact | Purpose |
-|:---|:---|:---|
-| **General Inquiries** | info@vort.org.za | Company Information |
-| **Sales & Partnerships** | sales@vort.org.za | Business Development |
-| **Technical Support** | support@vort.org.za | Product Support |
-| **Security & Vulnerabilities** | security@vort.org.za | Security Reports |
-| **Human Resources** | hr@vort.org.za | People Operations |
-| **Legal Department** | legal@vort.org.za | Legal Inquiries |
+| Department | Email |
+|:---|:---|
+| **General Inquiries** | info@vort.org.za |
+| **Sales & Partnerships** | sales@vort.org.za |
+| **Technical Support** | support@vort.org.za |
+| **Security & Vulnerabilities** | security@vort.org.za |
+| **Human Resources** | hr@vort.org.za |
+| **Legal Department** | legal@vort.org.za |
 
-**Primary Website:** [vort.org.za](https://vort.org.za)
+**Website:** vort.org.za
 
 ---
 
-<!-- FOOTER DIVIDER -->
-<p align="center">
-  <svg width="600" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="10" x2="240" y2="10" stroke="#DAA520" stroke-width="1" opacity="0.25"/>
-    <circle cx="300" cy="10" r="5" fill="#DAA520" opacity="0.4"/>
-    <line x1="360" y1="10" x2="600" y2="10" stroke="#DAA520" stroke-width="1" opacity="0.25"/>
-    <text x="300" y="18" font-family="Arial" font-size="9" fill="#6E7681" text-anchor="middle">Vort Automation & Innovation</text>
-  </svg>
-</p>
-
-<p align="center">
-  <sub>Copyright © 2026 Vort Automation & Innovation. All Rights Reserved.</sub>
-</p>
+Copyright © 2026 Vort Automation & Innovation. All Rights Reserved.
